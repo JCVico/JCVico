@@ -1,5 +1,6 @@
-<!-- Banner (puedes subir uno propio o usar este ejemplo de banner Cyber) -->
-<img src="https://raw.githubusercontent.com/JCVico/Portfolio-Ciberseguridad/main/assets/banner-cybersecurity.jpg" alt="Banner Ciberseguridad" width="100%"/>
+<img width="1200" height="675" alt="banner" src="https://github.com/user-attachments/assets/de0b2cd5-d178-4de7-96f1-c56c02b66bf8" /><!-- Banner (puedes subir uno propio o usar este ejemplo de banner Cyber) -->
+![Banner](C:\Users\juanc\Documents\GitHub\Portfolio-Ciberseguridad\banner.png)
+
 
 👋 ¡Hola! Soy Juan Carlos Vico
 
