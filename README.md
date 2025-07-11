@@ -25,6 +25,13 @@ Todo documentado de forma clara, honesta y orientado a la práctica.
 
 ---
 
+🔗 Repositorios destacados
+
+📁 DFIR - Proyecto Final: investigación, análisis forense y documentación paso a paso de un caso práctico real.  
+📁 Práctica con Snort: uso básico de Snort como sistema de detección de intrusos (IDS), ejemplos de reglas y análisis de tráfico.  
+
+---
+
 🚀 **En progreso...**
 
 * 🔎 Subida y análisis de retos CTF
