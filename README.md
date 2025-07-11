@@ -27,8 +27,8 @@ Todo documentado de forma clara, honesta y orientado a la práctica.
 
 🔗 Repositorios destacados
 
-📁 [DFIR - Proyecto Final](./DFIR-Proyecto-Final): investigación, análisis forense y documentación paso a paso de un caso práctico real.  
-📁 [Práctica con Snort](./Practicas/Snort): uso básico de Snort como sistema de detección de intrusos (IDS), ejemplos de reglas y análisis de tráfico.  
+📁 [DFIR - Proyecto Final](https://github.com/JCVico/Portfolio-Ciberseguridad/tree/main/DFIR-Proyecto-Final): investigación, análisis forense y documentación paso a paso de un caso práctico real.  
+📁 [Práctica con Snort](https://github.com/JCVico/Portfolio-Ciberseguridad/tree/main/Practicas/Snort): uso básico de Snort como sistema de detección de intrusos (IDS), ejemplos de reglas y análisis de tráfico.  
 
 ---
 
