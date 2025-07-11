@@ -14,12 +14,12 @@ Soy una persona **curiosa, técnica y con muchas ganas de seguir creciendo**. Ve
 
 Este repositorio es mi espacio personal de práctica y documentación. Aquí encontrarás:
 
-✅ Análisis forense de sistemas Windows
-✅ Laboratorios DFIR con evidencias, informes y herramientas reales
-✅ Scripting básico en Bash y PowerShell
-✅ Mis notas y aprendizajes sobre ciberseguridad y redes
-✅ Casos prácticos de respuesta ante incidentes
-✅ Proyectos en curso y próximos retos
+✅ Análisis forense de sistemas Windows  
+✅ Laboratorios DFIR con evidencias, informes y herramientas reales  
+✅ Scripting básico en Bash y PowerShell  
+✅ Mis notas y aprendizajes sobre ciberseguridad y redes  
+✅ Casos prácticos de respuesta ante incidentes  
+✅ Proyectos en curso y próximos retos  
 
 Todo documentado de forma clara, honesta y orientado a la práctica.
 
@@ -44,7 +44,7 @@ Todo documentado de forma clara, honesta y orientado a la práctica.
 
 🌐 **Contacto**
 
-📫 [juancarlosvicolopez@gmail.com](mailto:juancarlosvicolopez@gmail.com)
+📫 [juancarlosvicolopez@gmail.com](mailto:juancarlosvicolopez@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/juan-carlos-v-602a43102)
 
 ---
