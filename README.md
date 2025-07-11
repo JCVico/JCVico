@@ -1,3 +1,6 @@
+<!-- Banner (puedes subir uno propio o usar este ejemplo de banner Cyber) -->
+<img src="https://raw.githubusercontent.com/JCVico/Portfolio-Ciberseguridad/main/assets/banner-cybersecurity.jpg" alt="Banner Ciberseguridad" width="100%"/>
+
 👋 ¡Hola! Soy Juan Carlos Vico
 
 Bienvenid@ a mi portfolio de **ciberseguridad**, donde comparto mis aprendizajes, laboratorios y proyectos prácticos mientras me desarrollo en el mundo de la **forensia digital y la respuesta ante incidentes (DFIR)**.
