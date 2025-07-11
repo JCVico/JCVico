@@ -1,4 +1,4 @@
-![Banner](C:\Users\juanc\Documents\GitHub\Portfolio-Ciberseguridad\banner.png)
+![Banner](banner.png)
 
 👋 ¡Hola! Soy Juan Carlos Vico
 
