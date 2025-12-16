@@ -1,62 +1,71 @@
 ![Banner](banner.png)
 
-👋 ¡Hola! Soy Juan Carlos Vico
+# 👋 ¡Hola! Soy Juan Carlos Vico
 
-Bienvenid@ a mi portfolio de **ciberseguridad**, donde comparto mis aprendizajes, laboratorios y proyectos prácticos mientras me desarrollo en el mundo de la **forensia digital y la respuesta ante incidentes (DFIR)**.
+### 🛡️ Analista de Ciberseguridad Junior | Blue Team & DFIR
 
----
-
-🧠 **¿Quién soy?**
-
-Soy una persona **curiosa, técnica y con muchas ganas de seguir creciendo**. Vengo del área del mantenimiento industrial, donde aprendí a resolver problemas con ingenio y adaptarme a distintos entornos. Hoy aplico esa mentalidad práctica al ámbito de la **seguridad digital**, combinando pasión y constancia en cada proyecto que realizo.
+Bienvenid@ a mi portfolio personal. Aquí documento mi transición profesional y mis proyectos prácticos en el mundo de la **Defensa Digital (Blue Team)**, la **Respuesta ante Incidentes** y el **Análisis Forense**.
 
 ---
 
-🛠️ **¿Qué encontrarás aquí?**
+### 🧠 ¿Quién soy?
 
-Este repositorio es mi espacio personal de práctica y documentación. Aquí encontrarás:
+Soy un perfil técnico en constante evolución. Vengo del **mantenimiento industrial**, un sector exigente donde aprendí la importancia de la disciplina, la resolución de problemas bajo presión y los protocolos de seguridad.
 
-✅ Análisis forense de sistemas Windows  
-✅ Laboratorios DFIR con evidencias, informes y herramientas reales  
-✅ Scripting básico en Bash y PowerShell  
-✅ Mis notas y aprendizajes sobre ciberseguridad y redes  
-✅ Casos prácticos de respuesta ante incidentes  
-✅ Proyectos en curso y próximos retos  
-
-Todo documentado de forma clara, honesta y orientado a la práctica.
+Hoy aplico esa mentalidad práctica a la ciberseguridad. Tras una formación intensiva de más de 6 meses, me he especializado en la **monitorización, detección y análisis de amenazas**, buscando aportar valor real en entornos SOC.
 
 ---
 
-🔗 Repositorios destacados
+### 🛠️ Tech Stack & Herramientas
 
-📁 [DFIR - Proyecto Final](https://github.com/JCVico/Portfolio-Ciberseguridad/tree/main/DFIR-Proyecto-Final): investigación, análisis forense y documentación paso a paso de un caso práctico real.  
-📁 [Práctica con Snort](https://github.com/JCVico/Portfolio-Ciberseguridad/tree/main/Practicas/Snort): uso básico de Snort como sistema de detección de intrusos (IDS), ejemplos de reglas y análisis de tráfico.  
+Mi enfoque es práctico. Estas son las tecnologías y herramientas con las que trabajo:
 
----
-
-🚀 **En progreso...**
-
-* 🔎 Subida y análisis de retos CTF
-* 📘 Scripts y utilidades de automatización
-* 🌐 Portfolio web con GitHub Pages
+* **Monitorización & SIEM:** Splunk (Búsquedas SPL), Wazuh.
+* **Detección & Amenazas:** Reglas Sigma, MITRE ATT&CK, Atomic Red Team.
+* **DFIR (Forense y Respuesta):** FTK Imager, Volatility, Autopsy, KAPE.
+* **Análisis de Red:** Wireshark, Snort, TCPdump.
+* **Scripting:** Bash, PowerShell.
 
 ---
 
-📚 **Formación destacada**
+### 📂 ¿Qué encontrarás en este repositorio?
 
-* 🎓 DFIR – INCIBE / Fundación ONCE (300h)
-* 🛡️ Google Cybersecurity Certificate – Coursera
-* 💻 CCST: Cybersecurity – Certiport
-* 🔧 Técnico en Mantenimiento Industrial (con enfoque práctico)
+Este espacio es mi laboratorio personal. Aquí subo evidencias de mi aprendizaje continuo:
 
----
-
-🌐 **Contacto**
-
-📫 [juancarlosvicolopez@gmail.com](mailto:juancarlosvicolopez@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/juan-carlos-v-602a43102)
+* ✅ **Blue Team Labs:** Ejercicios de detección de amenazas y uso de SIEMs.
+* ✅ **Ingeniería de Detección:** Creación de reglas personalizadas (Sigma/YARA) para detectar ataques específicos.
+* ✅ **Análisis Forense:** Prácticas de adquisición y análisis de evidencias (Memoria RAM, Discos y Artefactos de Windows).
+* ✅ **Scripting:** Automatización básica para tareas de seguridad.
+* ✅ **Informes:** Documentación paso a paso de retos CTF y simulaciones de incidentes.
 
 ---
 
-Gracias por pasarte. Este es solo el principio. 👣
+### 🔗 Repositorios y Proyectos Destacados
 
+* **📁 [Blue Team Ops]:** (Añade aquí el link) *Laboratorios de detección con Splunk, validación de defensas con Atomic Red Team y reglas Sigma.*
+* **📁 [DFIR - Proyecto Final]:** Investigación completa, cadena de custodia y análisis forense de un caso práctico.
+* **📁 [Network Analysis]:** Detección de intrusos con Snort y análisis de tráfico malicioso.
+
+---
+
+### 📚 Formación Destacada
+
+Me mantengo actualizado constantemente. Mi base formativa incluye:
+
+* 🎓 **Experto en Blue Team** (250h) | INCIBE - Fundación ONCE (2025)
+* 🎓 **Analista Forense Digital & IR** (300h) | INCIBE - Fundación ONCE (2025)
+* 🛡️ **Google Cybersecurity Certificate** | Coursera
+* 💻 **CCST: Cybersecurity** | Cisco Certified Support Technician
+
+---
+
+### 🌐 Contacto
+
+Si buscas un perfil junior con ganas, disciplina y base técnica, hablemos.
+
+* 📫 **Email:** juancarlosvicolopez@gmail.com
+* 🔗 **LinkedIn:** [Juan Carlos Vico López](https://www.linkedin.com/in/juan-carlos-vico-lopez/)
+
+> *"La seguridad no es un producto, es un proceso."*
+
+---
