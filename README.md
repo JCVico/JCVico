@@ -12,7 +12,7 @@ Bienvenid@ a mi portfolio personal. Aquí documento mi transición profesional y
 
 Soy un perfil técnico en constante evolución. Vengo del **mantenimiento industrial**, un sector exigente donde aprendí la importancia de la disciplina, la resolución de problemas bajo presión y los protocolos de seguridad.
 
-Hoy aplico esa mentalidad práctica a la ciberseguridad. Tras una formación intensiva de más de 6 meses, me he especializado en la **monitorización, detección y análisis de amenazas**, buscando aportar valor real en entornos SOC.
+Hoy aplico esa mentalidad práctica a la ciberseguridad. Tras una formación intensiva, me he especializado en la **monitorización, detección y análisis de amenazas**, buscando aportar valor real en entornos SOC.
 
 ---
 
