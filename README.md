@@ -48,7 +48,7 @@ Este espacio es mi laboratorio personal. Aquí subo evidencias de mi aprendizaje
 
 ---
 
-### 📚 Formación Destacada
+### 📚 Formación y Certificaciones
 
 Me mantengo actualizado constantemente. Mi base formativa incluye:
 
@@ -56,6 +56,9 @@ Me mantengo actualizado constantemente. Mi base formativa incluye:
 * 🎓 **Analista Forense Digital & IR** (300h) | INCIBE - Fundación ONCE (2025)
 * 🛡️ **Google Cybersecurity Certificate** | Coursera
 * 💻 **CCST: Cybersecurity** | Cisco Certified Support Technician
+
+**🚀 Próximo Objetivo (Roadmap):**
+* 🔜 **CHFI (Computer Hacking Forensic Investigator)** | EC-Council *(Preparación en curso)*
 
 ---
 
